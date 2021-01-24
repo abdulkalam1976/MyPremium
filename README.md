@@ -98,6 +98,6 @@ ASP.Net Core MVC 5.0, C#, JQuery, Bootstrap
    </p>
 
    <p><h4>d) Submit & Refresh</h4>
-         Checks the Validity og Model and Clear data
+         Checks the Validity of Model and Clear data
    </p>
 
