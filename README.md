@@ -102,12 +102,18 @@ ASP.Net Core MVC 5.0, C#, JQuery, Bootstrap
    </p>
 
 <h2>Output Screen</h2>
-<a href="p1.jpg">
-  Mozilla
+<p>
+<a href="https://github.com/abdulkalam1976/MyPremium/blob/master/p1.JPG">
+  Starting Index Page
 </a>
-<a href="p2.jpg">
-  Mozilla
+</p>
+<p>
+<a href="https://github.com/abdulkalam1976/MyPremium/blob/master/p2.JPG">
+  Validation Page
 </a>
-<a href="p3.jpg">
-  Mozilla
+   </p>
+   <p>
+<a href="https://github.com/abdulkalam1976/MyPremium/blob/master/p3.JPG">
+  Output Page
 </a>
+   </p>
