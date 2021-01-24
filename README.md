@@ -102,4 +102,12 @@ ASP.Net Core MVC 5.0, C#, JQuery, Bootstrap
    </p>
 
 <h2>Output Screen</h2>
-
+<a href="p1.jpg">
+  Mozilla
+</a>
+<a href="p2.jpg">
+  Mozilla
+</a>
+<a href="p3.jpg">
+  Mozilla
+</a>
