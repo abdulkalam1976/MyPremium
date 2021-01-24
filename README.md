@@ -101,3 +101,5 @@ ASP.Net Core MVC 5.0, C#, JQuery, Bootstrap
          Checks the Validity of Model and Clear data
    </p>
 
+<h2>Output Screen</h2>
+
